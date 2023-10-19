@@ -1,8 +1,7 @@
 # DN_portfolio
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qJ97EAEF91OJNmNZpY/giphy.webp?cid=ecf05e47rqaq12u2al8sqsg77ijp790wfg1mknt11xoctd0n&ep=v1_stickers_search&rid=giphy.webp&ct=s
-" width="100"/>
+  <img src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/200w.webp?cid=ecf05e47v2ozmryrqr4hkhp131ckshkx0kni5ft0g5keaa6g&ep=v1_gifs_search&rid=200w.webp&ct=g" width="300"/>
 </div>
 
 
