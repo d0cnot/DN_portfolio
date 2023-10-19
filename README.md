@@ -1,11 +1,8 @@
 # DN_portfolio
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/character-emoticon-illust-9lTE5D3Mgm5wYD99eI)" width="100"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+junior)](https://git.io/typing-svg)
-![Postman](
 
 
 # Дипломный проект профессии «Тестировщик ПО»
