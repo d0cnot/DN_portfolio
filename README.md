@@ -1,8 +1,11 @@
 # DN_portfolio
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/character-emoticon-illust-9lTE5D3Mgm5wYD99eI)" width="100"/>
+  <img src="https://media.giphy.com/media/qJ97EAEF91OJNmNZpY/giphy.webp?cid=ecf05e47rqaq12u2al8sqsg77ijp790wfg1mknt11xoctd0n&ep=v1_stickers_search&rid=giphy.webp&ct=s
+" width="100"/>
 </div>
+
+https://media2.giphy.com/media/qJ97EAEF91OJNmNZpY/giphy.webp?cid=ecf05e47rqaq12u2al8sqsg77ijp790wfg1mknt11xoctd0n&ep=v1_stickers_search&rid=giphy.webp&ct=s
 
 
 # Дипломный проект профессии «Тестировщик ПО»
