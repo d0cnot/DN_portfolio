@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 # Обо мне
 
 Всем привет! Меня зовут Дмитрий, я начинающий тестировщик. Имею 12 летний опыт сисадмина в бюджетной организации, с ПО и сайтами знаком не по наслышке.
