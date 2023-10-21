@@ -50,12 +50,13 @@
 :dart: __Задача №2__: Протестировать бэкенд на основе функционального чек-листа по личным событиям
 Как решала(-а): краткое описание решения (автореферат)
 
-Ссылка на проект https://github.com/d0cnot/DN_portfolio/tree/f7c1e74f53347388d93dfff04af9b6321be2fab5/Project1
+Ссылка на проект 
 
-логин: dehico8286@fsouda.com
-
-пароль: 16Jan2023
-
+<div id="badges" align="center">
+   <a href="https://github.com/d0cnot/DN_portfolio/tree/f7c1e74f53347388d93dfff04af9b6321be2fab5/Project1">
+      <img src="https://img.shields.io/badge/Project-blue?style=for-the-badge&logo=Project&logoColor=white" alt="Project Badge"/>
+     </div>
+  </a>
 Выводы (итоги):
 
 Итог №1 По завершении тестирования были оформлены баг-репорты
