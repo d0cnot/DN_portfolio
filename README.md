@@ -9,14 +9,24 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </div>
-
+<div id="badges">
+  <a href="your-vk-URL">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+</div>
 # Обо мне
 
 Всем привет! Меня зовут Дмитрий, я начинающий тестировщик. Имею 12 летний опыт сисадмина в бюджетной организации, с ПО и сайтами знаком не по наслышке.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 # Навыки и технологии
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2 />
+<img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
