@@ -50,15 +50,17 @@
 :dart: __Задача №2__: Протестировать бэкенд на основе функционального чек-листа по личным событиям
 Как решала(-а): краткое описание решения (автореферат)
 
-Ссылка на проект <div id="badges" align="center">
+Ссылка на проект :point_down: <div id="badges">
    <a href="https://github.com/d0cnot/DN_portfolio/tree/f7c1e74f53347388d93dfff04af9b6321be2fab5/Project1">
-      <img src="https://img.shields.io/badge/Project-blue?style=for-the-badge&logo=Project&logoColor=white" alt="Project Badge"/>
+      <img src="https://img.shields.io/badge/Project-red?style=for-the-badge&logo=Project&logoColor=white" alt="Project Badge"/>
      </div>
   </a>
-Выводы (итоги):
 
-Итог №1 По завершении тестирования были оформлены баг-репорты
-Итог №2 на основе результатов создан отчет с использованием метрик и выводом о готовности продукта к релизу
+:hourglass:**Выводы (итоги):**
+
+:scroll:Итог №1 По завершении тестирования были оформлены баг-репорты :mag:
+
+:scroll:Итог №2 Создан отчет с использованием метрик и выводом о готовности продукта к релизу :film_strip:
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
