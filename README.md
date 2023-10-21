@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </div>
-<div id="badges">
-  <a href="your-vk-URL">
+<div id="badges" align="center">
+  <a href="(https://vk.com/docnot)">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
   <a href="your-youtube-URL">
