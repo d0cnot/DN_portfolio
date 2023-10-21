@@ -1,7 +1,7 @@
 # Портфолио: инженер по тестированию
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/200w.webp?cid=ecf05e47v2ozmryrqr4hkhp131ckshkx0kni5ft0g5keaa6g&ep=v1_gifs_search&rid=200w.webp&ct=g" width="300"/>
+  <img src="https://media3.giphy.com/media/zDNjgq8AeddxxDhieI/200w.webp?cid=ecf05e471woq4swato0yfe9s5wehtyp9y92ffhg98xathugx&ep=v1_gifs_search&rid=200w.webp&ct=g" width="300"/>
 </div>
 
 <div id="badges" align="center">
