@@ -16,7 +16,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 # Навыки и технологии
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2 />
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
