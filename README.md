@@ -18,7 +18,17 @@
     <img src="https://img.shields.io/badge/skypro-green/blue?style=for-the-badge&logo=skypro&logoColor=white" alt="skypro Badge"/> 
 
 - :point_right: В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+### Контактная информация
+Email: d0cnot@yandex.ru
 
+<div id="badges"
+    <a href="https://vk.com/docnot">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
+    <a href="https://t.me/d0cnot">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+</div>
+ 
 
 # :bookmark_tabs: Навыки и технологии
 <div>
@@ -91,14 +101,4 @@ _Используя готовую базу данных, были написа�
 
 
 
-### Контактная информация
-Email: d0cnot@yandex.ru
 
-<div id="badges"
-    <a href="https://vk.com/docnot">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-    <a href="https://t.me/d0cnot">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-</div>
- 
